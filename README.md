@@ -1,2 +1,2 @@
-#tesutingu dake desu
+#tesutingu dake desu/n
 write more details
